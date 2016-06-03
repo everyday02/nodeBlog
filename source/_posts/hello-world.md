@@ -1,38 +1,15 @@
 ---
-title: Hello World
+title: 我的第一篇文章
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+如果您看到这篇文章，我感到很荣幸，因为这是我写的第一篇个人博客文章哦！
 
-## Quick Start
+开头总是很匆忙，事到临头才倍感压力，明知早些做准备会更好，但就是提不起劲儿。。。
 
-### Create a new post
+### 2016年06月03号
 
-``` bash
-$ hexo new "My New Post"
-```
+入职新的公司已近2个月了，对于一个干IT的草根码农，入职新公司，需要学习的总是很多。。。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+[北京聚道科技有限公司](https://www.genedock.com/)，一个在互联网大潮里拼搏的初创公司，而我也正式从金融行业奔赴至互联网大浪之中，从后台java转到前端web(javaScript)，兴趣使然？ 还是趋势所在？或多或少都有参杂，只能感叹－“计划总是赶不上变化”
 
-### Run server
+年初还在老公司干得稳稳当当，刚过3月，便被基友左一句，右一句的吹捧，给忽悠过来了。（下次再写吧） 
 
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
