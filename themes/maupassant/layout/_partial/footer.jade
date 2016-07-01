@@ -1,7 +1,8 @@
 div#SOHUCS
 script(src='http://changyan.sohu.com/upload/changyan.js')
-script
-  window.changyan.api.config({appid: 'cystl32KH',conf: 'prod_c1be456f632bd05b51c4f1f39a042827' });
+script(type='text/javascript').
+  window.changyan.api.config({appid: 'cystl32KH',conf: 'prod_c1be456f632bd05b51c4f1f39a042827' })
+
 #footer= '© '
   a(href=url_for('.'), rel='nofollow')= config.title + '.'
   |  Powered by
